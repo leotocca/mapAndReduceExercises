@@ -1,3 +1,3 @@
 # mapAndReduceExercises
 
-Array's .map() and .reduce() exercises
+Array's .map() and .reduce() method exercises
